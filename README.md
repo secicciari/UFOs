@@ -8,12 +8,11 @@ Dana has asked me to add table filters for the city, state, country, and shape (
 ## Results
 
 ### Overview
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
-When someone visits the webpage, they can use the forms on the left hand side of the screen to filter the list of UFO sightings.
-In order to use the filters, the person can type the specific criteria they're looking for in the text box and press "Enter". This will update the list of UFO sightings to show only those that match the search.
-They can also use multiple filters at the same time, as shown in the screenshot below. 
+When someone visits the webpage, they can use the forms on the left hand side of the screen to filter the list of UFO sightings. </br>
+In order to use the filters, the person can type the specific criteria they're looking for in the text box and press "Enter". This will update the list of UFO sightings to show only those that match the search. </br>
+They can also use multiple filters at the same time, as shown in the screenshot below. </br>
 ![filtering example](https://github.com/secicciari/UFOs/blob/main/resources/filter_example.png)
-To clear the current search, the user can delete the existing text and press "Enter". This will refresh the list.
+To clear the current search, the user can delete the existing text and press "Enter". This will refresh the list. </br>
 
 ## Summary
 ### Drawback
